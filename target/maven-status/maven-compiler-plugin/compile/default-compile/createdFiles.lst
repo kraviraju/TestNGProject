@@ -1,0 +1,7 @@
+Utilities\Log.class
+Pages\MyAccountPage.class
+Utilities\CommonLibrary.class
+Base\BaseSetUp.class
+Pages\LoginPage.class
+Base\BasePage.class
+Pages\HomePage.class

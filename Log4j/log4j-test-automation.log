@@ -1,0 +1,6 @@
+2022-03-03 12:13:37 INFO  Log:26 - Chrome Driver Path : C:\JAVA_Projects\TestNGProject\drivers\chromedriver.exe
+2022-03-03 12:13:58 INFO  Log:52 - Message: Open My Store Application - Base URL : http://automationpractice.com/index.php
+2022-03-03 12:14:11 INFO  Log:52 - Message: Go to Login Page
+2022-03-03 12:14:46 INFO  Log:52 - Message: Login success with username [hotcoolden@gmail.com] & password [tanuja] 
+2022-03-03 12:14:46 INFO  Log:52 - Message: Verify My Account page Title [My account - My Store]
+2022-03-03 12:14:49 INFO  Log:52 - Message: Verify logout page Title [Login - My Store] - Success

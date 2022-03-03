@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Open My Store Application - Base URL : http://automationpractice.com/index.php]]>
+    </line>
+    <line>
+      <![CDATA[Go to Login Page]]>
+    </line>
+    <line>
+      <![CDATA[Login success with username [hotcoolden@gmail.com] & password [tanuja] ]]>
+    </line>
+    <line>
+      <![CDATA[Verify My Account page Title [My account - My Store]]]>
+    </line>
+    <line>
+      <![CDATA[Verify logout page Title [Login - My Store] - Success]]>
+    </line>
+  </reporter-output>
+  <suite name="Aspire Test Suite" duration-ms="73256" started-at="2022-03-03T06:43:37Z" finished-at="2022-03-03T06:44:50Z">
+    <groups>
+    </groups>
+    <test name="LoginTest" duration-ms="73256" started-at="2022-03-03T06:43:37Z" finished-at="2022-03-03T06:44:50Z">
+      <class name="TestCases.Valid_LoginTest">
+        <test-method status="PASS" signature="BrowserSetup()[pri:0, instance:TestCases.Valid_LoginTest@724af044]" name="BrowserSetup" is-config="true" duration-ms="21083" started-at="2022-03-03T06:43:37Z" finished-at="2022-03-03T06:43:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetup -->
+        <test-method status="PASS" signature="methodLevelSetup()[pri:0, instance:TestCases.Valid_LoginTest@724af044]" name="methodLevelSetup" is-config="true" duration-ms="136" started-at="2022-03-03T06:43:58Z" finished-at="2022-03-03T06:43:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodLevelSetup -->
+        <test-method status="PASS" signature="validLoginTest()[pri:0, instance:TestCases.Valid_LoginTest@724af044]" name="validLoginTest" duration-ms="50875" started-at="2022-03-03T06:43:58Z" description="Valid Login Test" finished-at="2022-03-03T06:44:49Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Open My Store Application - Base URL : http://automationpractice.com/index.php]]>
+            </line>
+            <line>
+              <![CDATA[Go to Login Page]]>
+            </line>
+            <line>
+              <![CDATA[Login success with username [hotcoolden@gmail.com] & password [tanuja] ]]>
+            </line>
+            <line>
+              <![CDATA[Verify My Account page Title [My account - My Store]]]>
+            </line>
+            <line>
+              <![CDATA[Verify logout page Title [Login - My Store] - Success]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validLoginTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:TestCases.Valid_LoginTest@724af044]" name="teardown" is-config="true" duration-ms="1122" started-at="2022-03-03T06:44:49Z" finished-at="2022-03-03T06:44:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestCases.Valid_LoginTest -->
+    </test> <!-- LoginTest -->
+  </suite> <!-- Aspire Test Suite -->
+</testng-results>
