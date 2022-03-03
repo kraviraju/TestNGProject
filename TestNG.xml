@@ -5,5 +5,5 @@
         <classes>
             <class name="TestCases.Valid_LoginTest"/> 
         </classes>
-    </test>
+    </test> 
 </suite>
